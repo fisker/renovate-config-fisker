@@ -639,10 +639,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-11.11.6.tgz#df929d1bb2eee5afdda598a41930fe50b43eaa6a"
   integrity sha512-Exw4yUWMBXM3X+8oqzJNRqZSwUAaS4+7NdvHqQuFi/d+synz++xmX3QIf+BFqneW8N31R8Ky+sikfZUXq07ggQ==
 
-"@xwtec/eslint-config@^5.0.1":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-5.0.1.tgz#61836079bca424fbc5a87ca05f0deb5818a7aa05"
-  integrity sha512-hHPogxS3bfTw7bOHPRC9mYoVWqoB+5lF+OYxS0vGrfFWSghI28ffV2I7rSVIqO0A3jmZZRz5qsyfS7oE5uNw9Q==
+"@xwtec/eslint-config@^5.0.2":
+  version "5.0.2"
+  resolved "https://registry.yarnpkg.com/@xwtec/eslint-config/-/eslint-config-5.0.2.tgz#3c72732158740fe6043bc7962fb7f39c4dd467f6"
+  integrity sha512-N/ooYUjMYEByPGke3o72retCoVzgYNF24PHaLGdyZXkLU5YTewaZTv6HErmwemIzB+vhtUoUfIi7hUPzvZ0wWw==
   dependencies:
     eslint-plugin-prettier "^3.0.1"
 
