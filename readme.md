@@ -1,3 +1,5 @@
+# moved to `@fisker/renovate-config` instead [https://github.com/fisker/shared-configs/tree/master/packages/renovate-config](https://github.com/fisker/shared-configs/tree/master/packages/renovate-config)
+
 # renovate-config-fisker
 
 [![Build Status](https://img.shields.io/travis/fisker/renovate-config-fisker/master.svg?style=flat-square)](https://travis-ci.org/fisker/renovate-config-fisker)
